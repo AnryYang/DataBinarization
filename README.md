@@ -7,7 +7,7 @@ C 17.0 90.0 16
 D Federal-gov Local-gov State-gov Private Self-emp-inc Self-emp-not-inc Without-pay
 C 13492.0 1490400.0 16
 ```
-First row is the count of features, from second row, each row is made up of feature value type (C accounts for continuous, D represents discrete) and feature values set, the feature's index in data is it's order here (from 0 to features_count-1)
+First row is the count of features, from second row, each row is made up of feature value type (C accounts for continuous, D represents discrete) and feature values set, the feature's index in data is its order here (from 0 to features_count-1)
 ##How to use data2libsvm.jar?
 - Firstly, configure a config file for data by using format:
 ```
