@@ -9,7 +9,7 @@ C 13492.0 1490400.0 16
 ```
 First row is the count of features, from second row, each row is made up of feature value type (C accounts for continuous, D represents discrete) and feature values set, the feature's index in data is its order here (from 0 to features_count-1)
 ##How to use data2libsvm.jar?
-- Firstly, configure a config file for data by using format:
+- Firstly, configure a config file (.cfg) for data by using format:
 ```
 label's index (from 0 to features_count-1)
 the values of the label correspond to be positive (+1)
