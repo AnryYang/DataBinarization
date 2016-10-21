@@ -14,7 +14,8 @@ First row is the count of features, from second row, each row is made up of feat
 label's index (from 0 to features_count-1)
 the values of the label correspond to be positive (+1)
 ```
-Please see .domain and select a feature as the label and select the values as  
+Please see .domain and select a feature as the label and specify the values accounting for positive 
+
 An example:
 ```
 3
